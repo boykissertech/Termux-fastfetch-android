@@ -4,7 +4,8 @@ https://github.com/boykissertech/Termux-fastfetch-android/blob/main/IMG_20250608
 
 First, install nerd fonts
 
-Cloning repository to ~/.config/fastfetch (git clone https://github.com/boykissertech/Termux-fastfetch-android)
+Cloning repository (git clone https://github.com/boykissertech/Termux-fastfetch-android)
 
+And copy files to ~./config/fastfetch
 
 Congratulations, you installed config
